@@ -21,7 +21,7 @@ with st.container():
     st.write(
         """
        "Project Music is one of the upcoming music platform based in Kenya which
-       was started on May 2020 by David holding a total of over 7500 
+       was started on May 2020 by David, holding a total of over 7500 
        total Spotify followers. Its main is to make artist's
        music to be heard and making their talent and passion for music recognized.
        If interested to submit your music for a review, the links are below.
