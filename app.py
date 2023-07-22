@@ -20,7 +20,7 @@ with st.container():
     st.write("###")
     st.write(
         """
-       "Project Music is one of the upcoming music platform based in Kenya which
+       Project Music is one of the upcoming music platform based in Kenya which
        was started on May 2020 by David, holding a total of over 7500 
        total Spotify followers. Its main is to make artist's
        music to be heard and making their talent and passion for music recognized.
