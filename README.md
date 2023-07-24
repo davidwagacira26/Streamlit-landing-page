@@ -46,5 +46,3 @@ Remember, this is just a basic template and you may want to add more details or 
 
 ![202345345](https://github.com/davidwagacira26/Streamlit-landing-page/assets/140235000/dc6d1439-0efc-4450-adbd-f4e9e8ad3d6a)
 
-![202383224](https://github.com/davidwagacira26/Streamlit-landing-page/assets/140235000/4124a571-11e5-4009-a4e8-50c2672581be)
-
