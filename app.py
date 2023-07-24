@@ -55,6 +55,7 @@ with st.container():
         "[10.UK Drill](https://open.spotify.com/playlist/2EautQVyDw0lU12crIyXAU?si=8e5bf0b7a3ec439b)",
         "[11.Hits Alert](https://open.spotify.com/playlist/0UyK8I4ZC3X2uEqZUNs7o8?si=427f786aab9b44b9)",
         "[12.EDM Party](https://open.spotify.com/playlist/6STy61hWywyHS2tKIEXuI7?si=0114b964cff24780)"
+        "[13.Kenyan R&B](https://open.spotify.com/playlist/1I8rJ9e0toqBXIql035TLc?si=b34a0658fdf341e4)",
     ]
 
     for link in playlist_links:
